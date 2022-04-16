@@ -11,7 +11,10 @@ public class FibonacciSeries {
 	 * create a 'for' loop: type 'for', followed by ctrl + space + down arrow +
 	 * enter
 	 * 
-	 * What are my learnings from this code? 1) 2) 3)
+	 * What are my learnings from this code? 
+	 1) Learned about For Loop
+	 2) printed using without ln in system.out.print command
+	 3) used assignment oprator
 	 * 
 	 */
 
@@ -27,12 +30,6 @@ public class FibonacciSeries {
 		s=c;
 		System.out.print("," + c);
 		}
-		/*System.out.println(s);
-		{
-			c=(f+s);
-			System.out.println(c);
-			f=c;
-		}*/
 	}
 
 }
